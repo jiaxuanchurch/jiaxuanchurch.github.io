@@ -1,38 +1,30 @@
 ---
 layout: post
-title: About the benefits of water
-date: 2017-10-09 17:33:28 +0300
+title: 01主若将真理相托，我能否珍视他更胜于自己的生命？
+date: 2022-10-16 17:33:28 +0800
 img: 19.jpg
 tags: Rest
 ---
-Blue bottle pabst retro snackwave brooklyn taiyaki bitters. Stumptown tilde bespoke dreamcatcher enamel pin, pok pok blog drinking vinegar retro ethical mumblecore shaman venmo poke. Cliche ugh meh, wayfarers mumblecore portland skateboard crucifix ramps vaporware. Activated charcoal PBR&B tacos stumptown mumblecore pitchfork umami blog artisan church-key godard. Shabby chic meh lyft, tilde pork belly echo park +1 tote bag tofu. Cardigan taiyaki mlkshk, adaptogen squid mustache hammock post-ironic chicharrones godard pinterest gluten-free. Air plant gastropub hexagon normcore cardigan aesthetic typewriter pitchfork fashion axe coloring book jianbing leggings vaporware offal. Bushwick palo santo leggings four dollar toast truffaut gluten-free. Fashion axe lo-fi vexillologist kinfolk. Authentic sriracha affogato, tofu polaroid enamel pin poke. Blue bottle man bun fanny pack cray, PBR&B health goth man braid neutra hexagon XOXO flexitarian vinyl cliche vegan. Raclette cold-pressed fanny pack listicle, blog cronut gochujang fam whatever four loko butcher prism aesthetic quinoa. Raclette thundercats gluten-free tbh, ethical adaptogen keffiyeh fam. Swag distillery pop-up offal. Hammock kitsch chicharrones vexillologist cliche pickled, yr cronut shoreditch slow-carb pabst small batch activated charcoal enamel pin.
+**01****主若将真理相托，我能否珍视他更胜于自己的生命？**
 
-Semiotics pickled next level, drinking vinegar tbh truffaut raclette cliche four loko thundercats master cleanse kombucha deep v. Enamel pin authentic sartorial, bitters paleo taiyaki vegan salvia. Sriracha knausgaard deep v, irony ramps hammock YOLO raclette. Trust fund photo booth tumblr, helvetica four loko literally chicharrones beard yr. Cronut PBR&B XOXO palo santo tbh craft beer, crucifix tumblr. Drinking vinegar enamel pin vinyl deep v, quinoa butcher meh bicycle rights. Jianbing neutra iceland salvia ennui. Poutine live-edge cronut cliche knausgaard four dollar toast actually. Roof party polaroid pinterest occupy, kitsch YOLO mixtape hoodie tattooed small batch plaid kinfolk. Celiac deep v gastropub waistcoat post-ironic shoreditch mumblecore 8-bit church-key. Try-hard PBR&B aesthetic quinoa, trust fund lomo poke. Roof party portland biodiesel twee meditation gluten-free meggings la croix pug four dollar toast bushwick lumbersexual man bun green juice keytar.
+ 
 
-### You need a little dummy text
+**1、****背诵：太5:1~2**
 
-1. Wayfarers air plant tousled gluten-free synth.
-2. Tumeric taxidermy iPhone, thundercats lo-fi you.
-3. Heard of them deep v art party raclette irony cred vegan tattooed.
-4. Migas four loko tumblr literally subway tile occupy vape.
-5. Fixie copper mug beard, scenester normcore vape.
+  耶稣看见这许多的人，就上了山，既已坐下，门徒到他跟前来。他就开口教训他们。   
 
-Humblebrag sartorial copper mug offal yr crucifix. Hexagon thundercats kinfolk waistcoat, snackwave trust fund subway tile master cleanse green juice drinking vinegar lyft pour-over everyday carry aesthetic meditation. Gochujang jean shorts plaid vinyl man braid. Hell of YOLO quinoa kombucha ethical. Lomo pork belly kale chips cronut put a bird on it tote bag distillery lyft shabby chic listicle. Tumblr letterpress cray, pinterest pickled humblebrag slow-carb fanny pack gentrify schlitz.
+**2、****灵修：**
 
-Pop-up aesthetic portland prism salvia unicorn art party leggings heirloom whatever. Selvage poke squid franzen man bun tote bag food truck actually beard pickled sriracha iPhone crucifix copper mug knausgaard. Fixie copper mug beard, scenester normcore vape vaporware ennui art party farm-to-table humblebrag poutine. Food truck pickled gastropub, artisan sriracha lo-fi cold-pressed shabby chic.
+   耶稣看见这许多的人，如同没有牧人的羊群，就怜悯他他们，然而他并没有立刻给他们天国的圣言，而是转身上山，教他们学习跟随，学习为追求无价的圣言付代价。从这点来看，主耶稣看重跟随者的态度更甚于他们的智能与理性。
 
-Hell of letterpress gentrify single-origin coffee pork belly. Vinyl authentic meggings coloring book, cray twee locavore flannel cronut everyday carry listicle small batch thundercats. 3 wolf moon before they sold out brunch selvage. Glossier gluten-free bushwick art party slow-carb cronut taiyaki try-hard street art subway tile yr iPhone echo park aesthetic.
+​    当耶稣要开始他整个的天国事工，他先是花时间甄别一群勇敢的殉道者，也就是在后来他不断重复的呼召“若有人要跟从我，就当舍己，天天背起他的十字架来跟从我！”福音书中，耶稣曾多次遇见大批的信众跟随，而几乎每次过后，耶稣都会只亲近其中一小群人，不难发现，数万吃饼得饱、为求好处的被动跟随者不如十一、二个拥有殉道精神的门徒更有影响力。
 
-![Flower and water]({{site.baseurl}}/images/pages/18.jpg)
+​    我们在牧养植堂的过程中，常需要作一些选拔会众领袖的决定。圣经中有非常丰富地选拔标准，但若我们留意，几乎每一项标准都是愿意为跟随基督付代价的果子。我们不可以随自己喜好随意挑选有才干者，也不可能随意接受热心事奉的毛遂自荐者，而是需要谨慎甄别出谁是上帝选召来服侍他子民之人。如何识出他们呢？把所有条件用一句话总结，那就是“要有愿意为遵行上帝旨意而勇于献身的特质。”知识可以传授，才干可以习得，而惟独面对真理的态度，惟上帝的灵感召才能发生。 正如耶稣说，“若不是差我来的父吸引人，就没有能到我这里来。”为此，省察我们有无神圣的呼召最直白的方式，是问自己是否被天父吸引愿意为遵行他的旨意付代价，甚至牺牲自己也决不妥协！
 
-Prism blog everyday carry, post-ironic ennui readymade bushwick hell of wayfarers offal af XOXO mlkshk shoreditch. Pitchfork echo park irony butcher whatever direct trade aesthetic chartreuse enamel pin deep v pop-up distillery. Listicle occupy next level, forage farm-to-table raw denim edison bulb polaroid. Yuccie aesthetic direct trade schlitz hella taiyaki celiac marfa 8-bit organic +1 fam humblebrag tilde. Messenger bag tacos etsy chillwave kitsch man braid DIY helvetica yr tote bag blog food truck. Swag bitters celiac, DIY freegan polaroid chia farm-to-table shabby chic +1 beard prism blue bottle master cleanse. Air plant pop-up brooklyn pug, kombucha chambray pinterest narwhal plaid yuccie flexitarian +1 quinoa single-origin coffee squid. Vice pabst pop-up ugh, pug af hoodie viral intelligentsia brunch succulents biodiesel. Kitsch enamel pin bespoke pop-up master cleanse cold-pressed af letterpress flannel jean shorts crucifix tattooed schlitz franzen glossier. Messenger bag freegan YOLO asymmetrical poutine deep v coloring book, banh mi lo-fi portland venmo migas 8-bit.
+​    纵观全登山宝训，便不难发现，若无为真理舍身的呼召，谁能全然接纳并勇敢践行全所有呢？其中许多命令非舍己绝无可能完成。天国真理的确丰富，甚至美善到我们人类无法想向，我想，这一切只有那为守真理愿舍己身者才能真正明白并得到吧。
 
-Bushwick try-hard occupy crucifix before they sold out craft beer. Mixtape brooklyn roof party tilde vape. Intelligentsia normcore man bun, single-origin coffee cliche woke next level try-hard poke. Kombucha green juice single-origin coffee, pabst chillwave flexitarian kitsch tacos etsy semiotics organic tbh bushwick seitan. Small batch meggings 8-bit, taxidermy affogato skateboard live-edge butcher cray.
-> Subway tile leggings intelligentsia synth chartreuse cloud bread freegan live-edge single-origin coffee cardigan helvetica mlkshk vegan. Craft beer truffaut affogato, photo booth vape yr williamsburg ethical butcher bushwick cornhole.
+​    每一个时代中，对耶稣感兴趣的人都会有成千上万，但又有几人能真正跟随他上山、有几人愿付一切代价追随他的脚踪行呢？试问: 今天的我，是否也会留在山下，惧难畏险？难道我们忘了，主曾为爱我们独自前往各各他，曾为背负我们的罪债受尽苦难？真理既是主为跟随他的人准备的盛宴，那么，我愿付一切代价来追寻！  
 
-Squid hammock mumblecore fanny pack photo booth cred, meditation next level plaid brooklyn butcher chambray.
-Bushwick tattooed blue bottle, lumbersexual fashion axe echo park thundercats hexagon kickstarter flannel iPhone selfies swag. Polaroid chillwave brunch, snackwave deep v knausgaard four dollar toast austin shaman. Meh authentic tumblr microdosing hammock crucifix man braid adaptogen. Leggings subway tile godard meggings, glossier church-key sriracha air plant lyft fanny pack portland franzen tofu.
+**3、****祷词：**
 
-YOLO live-edge marfa, cardigan hot chicken hella unicorn raclette try-hard bushwick twee hoodie. Gochujang taxidermy williamsburg bespoke forage prism, biodiesel sriracha disrupt before they sold out portland schlitz kitsch freegan kale chips. Typewriter raw denim cronut, hexagon actually brooklyn chicharrones dreamcatcher tacos. Bespoke bitters +1, wayfarers flexitarian tumeric chambray 8-bit cold-pressed try-hard street art pug. Crucifix +1 shabby chic chicharrones pop-up prism williamsburg heirloom shoreditch mustache sustainable four dollar toast kickstarter. Thundercats four dollar toast drinking vinegar bitters. +1 mustache tattooed kitsch, hammock swag actually edison bulb chambray. Quinoa jean shorts vape, celiac fanny pack helvetica you probably haven't heard of them small batch cliche post-ironic kitsch put a bird on it irony. XOXO cray taxidermy microdosing, +1 woke vice flexitarian beard pug vegan. Flannel health goth swag tofu distillery skateboard. Mlkshk single-origin coffee you probably haven't heard of them vaporware. Actually mixtape synth, lyft raw denim swag vegan lumbersexual VHS enamel pin truffaut kinfolk photo booth banh mi waistcoat.
-
-Skateboard butcher hexagon fashion axe bicycle rights scenester direct trade glossier drinking vinegar edison bulb leggings bitters marfa cred. Squid kinfolk YOLO copper mug locavore tattooed, authentic flannel normcore kogi gluten-free. Bushwick pickled helvetica chicharrones pop-up wolf, activated charcoal lumbersexual bespoke farm-to-table ethical semiotics tbh. Gentrify 8-bit live-edge, artisan man braid mustache cliche vice. Banh mi small batch yr meditation organic, cronut fashion axe. Forage plaid helvetica post-ironic hella. Raw denim edison bulb live-edge austin. Four loko schlitz locavore, prism photo booth polaroid typewriter iceland hexagon squid authentic aesthetic shabby chic jean shorts hell of. Asymmetrical twee subway tile yr prism kale chips hexagon coloring book. Lumbersexual snackwave ethical mustache aesthetic, put a bird on it williamsburg mlkshk la croix shabby chic.
+   主，你曾为我舍弃一切，今日我盼望回应您那丰盛的爱。无论在个人生命的更新、还是家庭的建造、亦或是教会侍奉、还有其他任何场合中任何事上任何人面前，渴望你指教我真理，我便奋力跟随你的脚踪行，不计代价、不畏险难，使身边的人藉我认识您。 主，再次谢谢你将真理赐予我们，奉耶稣的名祷告，阿们！
