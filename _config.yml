@@ -5,9 +5,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lokmont-jekyll.netlify.com/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner Section
-hero: 112.jpg
-hero-title: Welcome to Lokmont
-hero-description: A Responsive Jekyll Blog Theme. Theme suitable for any kind of creators.
+hero: slogon.jpg
+hero-title: 家宣教会
+hero-description: 把天堂带进家<br>把家带进天堂<br>将基督的爱活进社区<br>领社区归向耶稣
 
 # Author - Creator
 author-name: Ben Campbell
