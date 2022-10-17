@@ -8,6 +8,10 @@ description: 耶稣看见这许多的人，就上了山，既已坐下，门徒�
 ---
 # 第一天：主若将真理相托，我能否珍视他更胜于自己的生命？
 
+<audio controls>
+  <source src="/audios/活在我们里面_hillsong.mp3" type="audio/mpeg">
+</audio>
+
 ## 背诵
 
 耶稣看见这许多的人，就上了山，既已坐下，门徒到他跟前来。他就开口教训他们。（太 5:1-2）
