@@ -2,7 +2,7 @@
 layout: post
 title: 灵修第一天
 date: 2022-10-16 17:33:28 +0800
-img: 19.jpg
+img: cross_sunset.jpg
 tags: Rest
 description: 耶稣看见这许多的人，就上了山，既已坐下，门徒到他跟前来。他就开口教训他们。<br><br>太 5:1-2
 ---
