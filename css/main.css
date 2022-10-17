@@ -347,7 +347,7 @@ html {
 
 body {
   font-family: 'Roboto', Arial, Helvetica, sans-serif;
-  font-size: 18px;
+  font-size: 19px;
   color: rgba(0, 0, 0, 0.8);
   background-color: #ffffff;
   margin: 0;
@@ -360,7 +360,7 @@ body.body-post {
 }
 
 h1 {
-  font-size: 26px
+  font-size: 24px
 }
 
 h2 {
@@ -637,7 +637,7 @@ table tr:hover {
   clear: both;
 }
 
-::-moz-selection {
+/* ::-moz-selection {
   background: rgba(0, 120, 217, 0.7);
   color: #ffffff;
 }
@@ -645,7 +645,7 @@ table tr:hover {
 ::selection {
   background: rgba(0, 120, 217, 0.7);
   color: #ffffff;
-}
+} */
 
 /* 2. ========== Header Menu ========== */
 
@@ -1439,7 +1439,7 @@ table tr:hover {
   transition: all .25s ease;
 }
 
-.post-content::first-letter,
+/* .post-content::first-letter,
 .post-content > p:first-of-type::first-letter {
   display: block;
   height: 40px;
@@ -1449,7 +1449,7 @@ table tr:hover {
   font-size: 55px;
   color: #0078d9;
   line-height: 0.6;
-}
+} */
 
 .post-author {
   display: -webkit-box;
