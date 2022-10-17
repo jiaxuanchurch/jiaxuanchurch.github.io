@@ -652,7 +652,7 @@ table tr:hover {
 .site-header {
   height: 60px;
   position: relative;
-  background-color: #0078d9;
+  background: linear-gradient(to bottom, #429fd3 0, #2368a1);
   overflow: hidden;
 }
 
@@ -1690,23 +1690,24 @@ table tr:hover {
 
 .site-footer {
   position: relative;
-  background-color: #000000;
+  background-color: #d4d7d933;
 }
 
 .site-footer .footer-wrapper {
   position: relative;
   z-index: 1;
-  padding: 100px 15px;
+  padding: 50px 15px;
 }
 
 .site-footer .footer-heading {
-  margin: 0 0 30px;
-  font-size: 37px;
+  margin: 0;
+  font-size: 25px;
+  letter-spacing: 15px;
   font-family: 'Dancing Script', cursive;
   text-align: center;
   font-weight: 400;
   line-height: 30px;
-  color: #ffffff;
+  /* color: #ffffff; */
 }
 
 .social-footer {
@@ -1743,24 +1744,20 @@ table tr:hover {
   text-transform: uppercase;
   font-weight: 700;
   letter-spacing: 2px;
-  color: #ffffff;
+  /* color: #ffffff; */
 }
 
 .copyright p {
-  color: #ffffff;
+  /* color: #ffffff; */
   margin: 0;
 }
 
 .copyright p a {
   text-decoration: none;
-  color: #ffffff;
+  /* color: #ffffff; */
   -webkit-transition: all 0.2s ease;
   -o-transition: all 0.2s ease;
   transition: all 0.2s ease;
-}
-
-.copyright p a:hover {
-  color: #999eb5;
 }
 
 /* 10. ========== Page Styles ========== */
@@ -2150,11 +2147,11 @@ table tr:hover {
   }
 
   .site-footer .footer-wrapper {
-    padding: 80px 15px;
+    padding: 20px 15px;
   }
 
   .site-footer .footer-heading {
-    font-size: 30px;
+    font-size: 25px;
   }
 
   .before-footer a {
