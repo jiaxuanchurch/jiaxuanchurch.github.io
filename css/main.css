@@ -657,6 +657,7 @@ table tr:hover {
 }
 
 .site-logo {
+  height: 100%;
   float: left;
   position: absolute;
   top: 50%;
@@ -673,6 +674,9 @@ table tr:hover {
   font-weight: 400;
   text-decoration: none;
   color: #f2f4f6;
+  height: 100%;
+  width: 5rem;
+  background: center/100% no-repeat url('/images/logo.png');
 }
 
 .navigation-wrap {
@@ -1962,6 +1966,7 @@ table tr:hover {
   }
 
   .site-logo {
+    height: 100%;
     position: absolute;
     top: 50%;
     left: 15px;

@@ -7,6 +7,7 @@
 }
 
 .site-logo {
+  height: 100%;
   float: left;
   position: absolute;
   top: 50%;
@@ -19,6 +20,9 @@
     font-weight: 400;
     text-decoration: none;
     color: $white;
+    height: 100%;
+    width: 5rem;
+    background: center/100% no-repeat url('/images/logo.png');
   }
 }
 
@@ -83,6 +87,7 @@
   }
 
   .site-logo {
+    height: 100%;
     position: absolute;
     top: 50%;
     left: 15px;
