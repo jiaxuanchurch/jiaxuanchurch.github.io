@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 生活教育 Life Education
-date: 2022-10-18 17:33:28 +0800
+date: 2022-10-30 17:33:28 +0800
 img: 22.jpg
 tags: Rest
 description: 生活教育，致力于帮助青少年实现全面健康而有意义的成功生活。<br><br>
